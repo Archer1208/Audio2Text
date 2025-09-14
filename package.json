@@ -1,0 +1,23 @@
+{
+  "name": "audio2text",
+  "version": "1.0.0",
+  "description": "## whisper model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archer1208/Audio2Text.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Archer1208/Audio2Text/issues"
+  },
+  "homepage": "https://github.com/Archer1208/Audio2Text#readme",
+  "dependencies": {
+    "whisper-node": "^1.1.1"
+  }
+}
