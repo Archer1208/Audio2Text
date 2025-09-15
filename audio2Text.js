@@ -1,6 +1,6 @@
 import { whisper } from "whisper-node";
 
-const filePath = "/Users/yang/Documents/projects/Audio2Text/audio/audio.wav"; // required
+const filePath = "./audio/audio.wav"; // required
 
 const options = {
   modelName: "small", // default
